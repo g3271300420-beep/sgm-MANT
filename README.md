@@ -1,1 +1,1 @@
-# sgm-MANT
+# SG-MANT
